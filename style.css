@@ -1,0 +1,49 @@
+.main-title {
+	margin:  30px auto;
+	font-size: 48px;
+	text-align: center;
+}
+.refresh-news {
+	margin: 40px auto;
+	text-align: center;
+}
+.refresh-news-butt {
+	text-align: center;
+	font-size: 24px;
+	text-decoration: none;
+	color: black;
+	border: 1px solid black;
+	padding: 10px 20px;
+}
+.error {
+	color: red;
+	text-decoration: underline;
+}
+.list {
+	width: 80%;
+	margin: 20px auto;
+}
+.collapsible-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.control {
+	width: 60%;
+	margin: 30px auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.item-control {
+	padding: 10px 20px;
+	border: 1px solid black;
+}
+.item-control > a {
+	text-decoration: none;
+	color: black;
+}
+.currPage > p > span:first-child {
+	padding: 10px;
+	border: 1px solid black;
+}
